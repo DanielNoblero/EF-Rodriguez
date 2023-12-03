@@ -267,7 +267,7 @@ body {
 main {
   height: 450px;
   background-color: aquamarine;
-  background-image: url(../multimedia/cuchara.jpg);
+  background-image: url(../multimedia/cocina2.png);
   background-size: cover;
   background-position: center;
 }
@@ -277,9 +277,9 @@ main {
   width: 60%;
   border: 5px;
   float: right;
-  margin: 90px;
-  padding: 50px;
-  text-shadow: 5px 4px #558abb;
+  margin: 20px;
+  padding: 20px;
+  text-shadow: 2px 3px #558abb;
 }
 
 .call p {
